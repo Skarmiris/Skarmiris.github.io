@@ -42,7 +42,7 @@ h1{
     color: rgb(182, 182, 182);
 }
 
-/*barra navegación*/
+    /*barra navegación*/
 #nav-navegacion{
     position: sticky;
     background-color: rgb(30, 38, 43);
@@ -50,10 +50,18 @@ h1{
     -webkit-box-shadow: 1px 1px 27px 16px rgba(0,0,0,0.83);
     -moz-box-shadow: 1px 1px 27px 16px rgba(0,0,0,0.83);
 }
-
+    /*texto mis trabajos caja*/
 #h2{
     background-color: rgb(179, 180, 180);
 }
+    /*texto herramientas caja*/
+    #herramientas{
+        background-color: rgb(179, 180, 180);
+    }
+        /*caja herramientas y iconos*/
+    #Mis-trabajos{
+        background-color: rgb(179, 180, 180);
+    }
 
 #hr{
     background-color: aqua;
